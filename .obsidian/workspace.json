@@ -11,8 +11,12 @@
             "id": "70d02f5c23b63420",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0-日誌/BHBL 說明會.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0-日誌/BHBL 說明會.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0-日誌/BHBL 說明會.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0-日誌/BHBL 說明會.md"
+              }
             }
           }
         ]
@@ -152,6 +160,7 @@
   },
   "active": "70d02f5c23b63420",
   "lastOpenFiles": [
+    "臺北市立建國高級中學112學年度第2次正式教師甄選物理科題目卷.pdf",
     "0-日誌/2023-11-04.md",
     "0-日誌/BHBL 說明會.md",
     "1-靈感",
