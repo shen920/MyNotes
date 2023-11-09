@@ -18,8 +18,93 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1879d23f525bf5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-日誌/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97e202654826e9c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-靈感筆記/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f912ccd9cafb3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-圖書業務/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95fc84d7edf611e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-資訊業務/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45203e2a5eb8236f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-國際交流/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b9b7aa9738f4b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-圖書業務/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea87a660c9a392b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-日誌/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -85,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-行政會議/2023-11-09.md",
+                "file": "0-日誌/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-行政會議/2023-11-09.md",
+                "file": "0-日誌/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-行政會議/2023-11-09.md"
+                "file": "0-日誌/未命名.md"
               }
             }
           },
@@ -156,10 +241,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "dcf4ac9bf6fa9fd7",
+  "active": "ea87a660c9a392b3",
   "lastOpenFiles": [
-    "臺北市立建國高級中學112學年度第2次正式教師甄選物理科題目卷.pdf.md",
+    "1-靈感筆記/未命名.md",
+    "2-文獻筆記/未命名.md",
+    "3-圖書業務/未命名.md",
+    "4-資訊業務/未命名.md",
+    "5-國際交流/未命名.md",
+    "7-物理數學/未命名.md",
+    "0-日誌/未命名.md",
     "6-行政會議/2023-11-09.md",
+    "臺北市立建國高級中學112學年度第2次正式教師甄選物理科題目卷.pdf.md",
     "6-行政會議/attachments/臺北市立建國高級中學112學年度第2次正式教師甄選物理科題目卷.pdf",
     "6-行政會議/attachments",
     "6-行政會議/行政會議.md",
